@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200518T150930Z
+DTSTART;TZID=Europe/Berlin:20200520T180000
+DTEND;TZID=Europe/Berlin:20200520T190000
+SUMMARY:Germany look out: how to become a Web Developer (WEBINAR).
+UID:ZOOM758348277OCCURRENCE1589990400000
+DESCRIPTION:Nehmen Sie von einem PC\, Mac\, iPad\, iPhone oder Android-Ge
+ rät aus teil: \n    Klicken Sie bitte auf diese URL\, um teilzunehmen. h
+ ttps://us02web.zoom.us/w/758348277?tk=v_CqyK6ix9lBeRDa2HGHc1XSqt7l_7WLvd
+ qCoKEke54.DQIAAAAALTN59RZ4RG0xWnFCeFR2Q2RYNllWSXlXUURnAAAAAAAAAAAAAAAAAA
+ AAAAAAAAAA \n	Beschreibung: Join us for a free informational webinar whe
+ re you will receive insights into the German IT Industry and our Web Dev
+ elopment program. All of our courses can be 100% financed via an Educati
+ on Voucher (Bildungsgutschein) or through alternative funding.\n \nSteps
+  to participate in the webinar:\n1. Register for the webinar at the bott
+ om of this page.\n2. You will receive a confirmation email including the
+  webinar link. (Please also check your spam folder)\n3. Save the date an
+ d add it to your calendar.\n4. You will receive a reminder 1 hour before
+  the webinar starts.\n5. Join the webinar in time using the webinar link
+ .\n \nDuring this webinar\, you will learn about the following topics:\n
+ - Why the IT sector is very attractive.\n- Why IT companies are looking 
+ for you.\n- How our courses are structured.\n- How our courses will help
+  you land your dream job.\n- How you get the course 100% financed.\n- Ho
+ w you can take the first step today.\n \nAfter the webinar:\n- Follow th
+ e steps outlined in the webinar.\n- Get in touch with us if you would li
+ ke to receive an offer or have any questions.\n \nReach out to our Educa
+ tional Council in Berlin:\nName:	Sanja Schmidt\nMobile:	+491579-2361164\
+ nEmail:	s.schmidt@digitalcareerinstitute.org\n\nFor more information abo
+ ut our courses and fascinating insights of the IT Industry follow us on 
+ Facebook\, Instagram and LinkedIn !\n\nWe&#39\;re looking forward to see
+ ing you.\nUntil then!\nYour DCI - Team\n\nOder beitreten der Telefon：\n 
+        Deutschland: +49 30 5679 5800  or +49 695 050 2596  or +49 69 710
+ 4 9922 \n        Vereinigte Staaten von Amerika: +1 346 248 7799  or +1 
+ 669 900 6833  or +1 929 205 6099  or +1 253 215 8782  or +1 301 715 8592
+   or +1 312 626 6799 \n    Webinar-ID: 758 348 277\n    Verfügbare inter
+ nationale Nummern: https://us02web.zoom.us/u/kbik04k4xQ \n\n
+TZID:Europe/Berlin
+LOCATION:https://us02web.zoom.us/w/758348277?tk=v_CqyK6ix9lBeRDa2HGHc1XSq
+ t7l_7WLvdqCoKEke54.DQIAAAAALTN59RZ4RG0xWnFCeFR2Q2RYNllWSXlXUURnAAAAAAAAA
+ AAAAAAAAAAAAAAAAAAA
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
